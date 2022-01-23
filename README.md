@@ -1,2 +1,2 @@
-# C27
-Pirates invasion game with animations + sprite sheet
+# PRO-C27-SA
+Boilerplate code for c27 SA
